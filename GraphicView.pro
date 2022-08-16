@@ -18,18 +18,12 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
     main.cpp \
     mainwindow.cpp \
-    myitem.cpp \
-    myview.cpp \
     pointgraphicsitem.cpp \
-    rectanglegraphicsitem.cpp \
     view.cpp
 
 HEADERS += \
     mainwindow.h \
-    myitem.h \
-    myview.h \
     pointgraphicsitem.h \
-    rectanglegraphicsitem.h \
     view.h
 
 FORMS += \
